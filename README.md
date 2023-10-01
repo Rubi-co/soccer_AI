@@ -1,2 +1,1 @@
 # soccer ai
-ss
